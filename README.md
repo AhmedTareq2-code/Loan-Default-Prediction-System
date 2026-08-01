@@ -53,7 +53,7 @@ The classic **Loan Prediction dataset** (614 records, 12 raw features), includin
 ```
 ├── ML_Internship_Final_Project_Ahmed_Tareq.ipynb   # Full notebook: EDA, preprocessing, modeling, evaluation
 ├── loan_data.csv                                    # Dataset
-├── Loan_Prediction_Summary.docx                      # 1-page project summary
+├── Loan_Prediction_Summary.pdf                      # 1-page project summary
 └── README.md
 ```
 
